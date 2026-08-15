@@ -74,25 +74,27 @@ This project follows the **Medallion Architecture** with **Bronze**, **Silver**,
 ---
 
 ## 📂 Repository Structure
+```
 data-warehouse-project/
 │
-├── datasets/ # Raw datasets (ERP and CRM CSV files)
+├── datasets/                     # Raw datasets (ERP and CRM CSV files)
 │
-├── docs/ # Documentation and architecture diagrams
-│ ├── data_architecture.drawio # Overall project architecture
-│ ├── data_flow.drawio # Data flow diagram
-│ ├── data_models.drawio # Star schema data models
-│ ├── etl.drawio # ETL techniques and methods
-│ ├── data_catalog.md # Dataset catalog with field descriptions
-│ ├── naming-conventions.md # Naming guidelines for tables, columns, and files
+├── docs/                         # Documentation and architecture diagrams
+│   ├── data_architecture.drawio  # Overall project architecture
+│   ├── data_flow.drawio          # Data flow diagram
+│   ├── data_models.drawio        # Star schema data models
+│   ├── etl.drawio                # ETL techniques and methods
+│   ├── data_catalog.md           # Dataset catalog with field descriptions
+│   ├── naming-conventions.md     # Naming guidelines for tables, columns, and files
 │
-├── scripts/ # SQL scripts for ETL and transformations
-│ ├── bronze/ # Extract & load raw data
-│ ├── silver/ # Clean & transform data
-│ ├── gold/ # Build analytical (star schema) models
+├── scripts/                      # SQL scripts for ETL and transformations
+│   ├── bronze/                   # Extract & load raw data
+│   ├── silver/                   # Clean & transform data
+│   ├── gold/                     # Build analytical (star schema) models
 │
-├── tests/ # Data quality checks and test scripts
+├── tests/                        # Data quality checks and test scripts
 │
-├── README.md # Project overview (this file)
-└── .gitignore # Files ignored by Git
+├── README.md                     # Project overview (this file)
+└── .gitignore                    # Files ignored by Git
+```
 
