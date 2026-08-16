@@ -15,7 +15,7 @@ This project follows the **Medallion Architecture** with **Bronze**, **Silver**,
 - **Gold Layer** — Contains business-ready data modeled into a **star schema** for reporting and analytics.
 
 
-> `![Data Architecture](docs/data_architecture.drawio.png)`
+> `![Data Architecture](docs/Data Architecture.png)`
 
 ---
 
