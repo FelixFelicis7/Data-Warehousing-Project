@@ -96,3 +96,10 @@ data-warehouse-project/
 └── .gitignore                    # Files ignored by Git
 ```
 
+## 👋 About Me
+
+Hi there! I'm **Lu**, a **Business Intelligence / Data Analytics** professional passionate about transforming raw data into insights that drive decisions. This project demonstrates my command of the full data workflow, from data modeling and ETL to SQL analytics.
+
+Feel free to connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christinaluliu/)
