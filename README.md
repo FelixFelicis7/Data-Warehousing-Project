@@ -1,8 +1,6 @@
 # 📊 Data Warehouse & Analytics Project
 
-This is my end-to-end data warehousing project, where I build a modern data warehouse from raw source files all the way to analytics-ready models. I built this to get hands-on with the full data engineering workflow — data architecture, ETL, data modeling, and SQL analytics — and to have a portfolio piece I actually understand end to end.
-
-
+An end-to-end modern data warehouse over customer, sales, and product data, built from raw source files to analytics-ready star-schema models. I built this to get hands-on with the full data engineering workflow: data architecture, ETL, data modeling, and SQL analytics, showing command of each stage of the pipeline.
 
 ---
 
